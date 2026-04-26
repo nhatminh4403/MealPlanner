@@ -100,7 +100,7 @@ dotnet run --project src/MealPlannerAPI.DbMigrator
 ```bash
 dotnet run --project src/MealPlannerAPI.HttpApi.Host
 ```
-
+ 
 ### 3. Setup Frontend
 
 ```bash
@@ -116,7 +116,7 @@ npm run dev
 ```bash
 dotnet dev-certs https -v -ep openiddict.pfx -p your-password
 ```
-
+Note: nên chạy thêm lệnh bên trên cho môi trường Dev bởi vì ABP sử dụng OpenIddict.
 ---
 
 # 🍽️ Meal Planner Application (Fullstack)
