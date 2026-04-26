@@ -6,7 +6,7 @@
 
 Đây là hệ thống **Meal Planner** fullstack bao gồm:
 
-* 🔧 Backend API: xây dựng bằng **ABP Framework (DDD - Domain Driven Design)**
+* 🔧 Backend API: xây dựng bằng **ABP Framework**
 * 🌐 Frontend: xây dựng bằng **Next.js**
 
 ### 🔗 GitHub Repositories
@@ -20,7 +20,7 @@
 
 ### Backend (MealPlannerAPI)
 
-Dự án sử dụng kiến trúc **Layered Monolith (ABP Framework v10)** theo DDD.
+Dự án sử dụng kiến trúc **Layered Monolith (ABP Framework v10)**.
 
 ### 📂 Backend Projects (Chi tiết)
 
@@ -125,7 +125,7 @@ dotnet dev-certs https -v -ep openiddict.pfx -p your-password
 
 This is a **fullstack Meal Planner system** consisting of:
 
-* 🔧 Backend API: built with **ABP Framework (DDD)**
+* 🔧 Backend API: built with **ABP Framework**
 * 🌐 Frontend: built with **Next.js**
 
 ### 🔗 GitHub Repositories
@@ -194,5 +194,5 @@ git clone https://github.com/nhatminh4403/MealPlanner.FE
 
 ## 📦 Deployment
 
-* Backend: ASP.NET Core deployment
+* Backend: ASP.NET Core deployment (preferably **Microsoft Azure** or **AWS** if you have knowledge of deploying to)
 * Frontend: Vercel recommended
