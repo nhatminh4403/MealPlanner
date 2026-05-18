@@ -1,7 +1,9 @@
 # 🍽️ Meal Planner Application (Fullstack)
 
 *English below*
-
+* Demo:
+* Frontend: meal-planner-abpfr.vercel.app
+* Backend & Admin: https://mealplanner-api.azurewebsites.net/ | https://mealplanner-admin.azurewebsites.net/
 ## 🇻🇳 Giới thiệu (Tiếng Việt)
 
 Đây là hệ thống **Meal Planner** fullstack bao gồm:
